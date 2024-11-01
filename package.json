@@ -1,7 +1,7 @@
 {
-  "name": "Nintendo-Music",
-  "version": "1.0.0",
-  "description": "Nintendo Music APK For Android Download.",
+  "name": "Sprunki-Mixer",
+  "version": "0.3",
+  "description": "Sprunki Mixer Game Play Sprunki Mixer On Sprunki Incredibox.",
   "main": "index.js",
   "scripts": {
     "start": "open index.html"
